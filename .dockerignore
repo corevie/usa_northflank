@@ -1,0 +1,11 @@
+.git
+.gitignore
+.github
+__pycache__/
+*.pyc
+*.log
+logs/
+ip.txt
+cf_ips_merged.txt
+.DS_Store
+setup.sh
